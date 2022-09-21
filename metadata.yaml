@@ -1,0 +1,27 @@
+_repo: Recits-marocains-de-la-plaine-et-des-monts_68865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Glay, Maurice le
+    gutenberg_agent_id: '54986'
+    url: http://www.gutenberg.org/2009/agents/54986
+description: ''
+gutenberg_issued: '2022-08-29'
+identifiers:
+  gutenberg: '68865'
+language: fr
+pgterms:marc904: https://archive.org/details/rcitsmarocains00legluoft
+pgterms:marc905: 20211211015914leglay
+pgterms:marc906: '1920'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: France :Berger-Levrault,1920,pubdate 1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Récits marocains de la plaine et des monts
+url: http://www.gutenberg.org/ebooks/68865
